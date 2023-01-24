@@ -3,7 +3,7 @@
 
 This code can be used to generate simulations similar to Figs. 4, 6, 7, 8, 9, 10 in the following paper:
 
-Virginia Bordignon, Vincenzo Matta, and Ali H. Sayed,  "Partial Information Sharing over Social Learning Networks,'' in IEEE Transactions on Information Theory, 2023. [![DOI:10.1109/TIT.2022.3227587](https://zenodo.org/badge/DOI/10.5281/zenodo.7566245.svg)](https://doi.org/10.1109/TIT.2022.3227587)
+Virginia Bordignon, Vincenzo Matta, and Ali H. Sayed,  "Partial Information Sharing over Social Learning Networks,'' in IEEE Transactions on Information Theory, 2023. [![DOI](https://zenodo.org/badge/DOI/10.1109/TIT.2022.3227587.svg)](https://doi.org/10.1109/TIT.2022.3227587)
 
 Fig. 4 is generated executing file 'fig_4.py'.
 
